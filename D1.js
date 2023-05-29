@@ -80,6 +80,8 @@ console.log("My age",Myage)
 /* SCRIVI QUI LA TUA RISPOSTA */
 let numero3 = 4 
 console.log("numero 4 ",numero3)
+console.log(4 - ildodici)
+
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -88,3 +90,7 @@ console.log("numero 4 ",numero3)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let name1 = "jhon"
+let name2 = "Jhon"
+
+console.log(name1 !== name2)
